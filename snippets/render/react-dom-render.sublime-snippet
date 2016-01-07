@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+ReactDOM.render(<${1:Component} />, document.$0);
+]]>
+</content>
+    <tabTrigger>rdr</tabTrigger>
+    <scope>source.js</scope>
+    <description>ReactDOM.render</description>
+</snippet>
